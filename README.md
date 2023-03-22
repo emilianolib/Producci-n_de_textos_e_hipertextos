@@ -1,2 +1,2 @@
 # inges
-![](fotoingjpg.png)
+![foto](fotoingjpg.png)
