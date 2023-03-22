@@ -6,5 +6,8 @@ Entregas 2023
 *  Liberal  Emiliano, <eliberal197@gmail.com>
 *  Videla Jose, <josevidelita98@gmail.com>
 <hr>
-![cambiar foto](grupo.jpg)
+
+
+![cambiar foto](grupo.png)
+
 
