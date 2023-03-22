@@ -1,2 +1,2 @@
 # inges
-![cambiar foto](grupo_inges.jpg)
+![cambiar foto](grupo.jpg)
