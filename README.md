@@ -1,2 +1,2 @@
 # inges
-![fotoing.jpg](fotoing.png)
+![](C:\Users\Emiliano Liberal\Desktop\fotoing.png)
